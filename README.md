@@ -1,5 +1,5 @@
 A REST API based project which is divided in 2 parts. 
-Main backend part cal singularity
+Main backend part called singularity
 Application part called Application
 
 
